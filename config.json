@@ -1,0 +1,32 @@
+{
+  "group": {
+    "dev": {
+      "m-blend": {
+        "enabled": true,
+        "price": "MRP",
+        "max-order": 1
+      }
+    },
+    "sit": {
+      "m-blend": {
+        "enabled": true,
+        "price": "MRP",
+        "max-order": 1
+      }
+    },
+    "uat": {
+      "m-blend": {
+        "enabled": true,
+        "price": "MRP",
+        "max-order": 1
+      }
+    },
+    "prod": {
+      "m-blend": {
+        "enabled": true,
+        "price": "MRP",
+        "max-order": 1
+      }
+    }
+  }
+}
